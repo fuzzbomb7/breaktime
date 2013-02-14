@@ -1,0 +1,16 @@
+C:\Users\Andrew\documents\visual studio 2010\Projects\Timey\Timey\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Andrew\documents\visual studio 2010\Projects\Timey\Timey\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Andrew\documents\visual studio 2010\Projects\Timey\Timey\obj\x86\Debug\WindowsFormsApplication1.Prefs.resources
+C:\Users\Andrew\Documents\Visual Studio 2010\Projects\Timey\Timey\bin\Debug\Break Time.exe
+C:\Users\Andrew\Documents\Visual Studio 2010\Projects\Timey\Timey\bin\Debug\Break Time.pdb
+C:\Users\Andrew\Documents\Visual Studio 2010\Projects\Timey\Timey\obj\x86\Debug\Break Time.exe
+C:\Users\Andrew\Documents\Visual Studio 2010\Projects\Timey\Timey\obj\x86\Debug\Break Time.pdb
+C:\Users\Andrew\documents\visual studio 2010\Projects\Timey\Timey\obj\x86\Debug\Timey.csproj.GenerateResource.Cache
+C:\Users\Andrew\Documents\GitHub\breaktime\Timey\bin\Debug\Break Time.exe
+C:\Users\Andrew\Documents\GitHub\breaktime\Timey\bin\Debug\Break Time.pdb
+C:\Users\Andrew\Documents\GitHub\breaktime\Timey\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Andrew\Documents\GitHub\breaktime\Timey\obj\x86\Debug\WindowsFormsApplication1.Prefs.resources
+C:\Users\Andrew\Documents\GitHub\breaktime\Timey\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Andrew\Documents\GitHub\breaktime\Timey\obj\x86\Debug\Timey.csproj.GenerateResource.Cache
+C:\Users\Andrew\Documents\GitHub\breaktime\Timey\obj\x86\Debug\Break Time.exe
+C:\Users\Andrew\Documents\GitHub\breaktime\Timey\obj\x86\Debug\Break Time.pdb
