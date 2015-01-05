@@ -9,15 +9,19 @@ Break Time! offers much of the same functionality as the premium offerings featu
 
 ##Setup and Usage
 
-To set up Break Time!, click the Preferences icon and enter the first part of your Freshbooks URL, as well as your API key. You can also adjust preferences, such as Start on Windows Startup, and Pause when idle for X minutes.
+To set up Break Time!, click the *Preferences* icon and enter the first part of your Freshbooks URL, as well as your API key. You can also adjust preferences, such as Windows startup, popup reminders, and pause when idle.
 
-Click the Refresh button to retrieve your Freshbooks projects. You can filter projects by client, or simply select your project from the list.  Be sure to select a task as well.
+Click the *Refresh* button to retrieve your current Freshbooks projects. You can filter projects by client, or simply select your project from the list.  Be sure to select a task as well.
 
-Click the Start button to start the timer. The Clear button resets the timer to zero. If you want to manually edit the time, click the padlock icon to unlock the timer for editing. You can edit the hour, minute, or the fractional hour value.
+Click the *Start* button to start the timer. The *Clear* button resets the timer to zero. If you want to manually edit the time, click the padlock icon to unlock the timer for editing. You can edit the hour, minute, or the fractional hour value.
 
-Use the buttons on the toolbar to easily add or subtract the specified interval from the timer, or to round the time to the nearest specified interval.
+Use the *Add* buttons on the toolbar to easily add or subtract the specified interval from the timer, or the *Round* buttons to round the time to the nearest specified interval.
 
-Once you're ready to log your time, enter a note (optional) and click the Send button to log your time in Freshbooks!
+Once you're ready to log your time, enter a note (optional) and click the *Submit* button to log your time in Freshbooks!
+
+##Download
+
+[Windows Installer]()
 
 ##Disclaimer
 
