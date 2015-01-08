@@ -5,7 +5,7 @@ I wanted a time tracker that was better than the javascript app offered by Fresh
 
 Break Time! offers much of the same functionality as the premium offerings featured on Freshbooks' website. But because I didn't have a fancy website, or a program with an attractive GUI, Freshbooks wasn't interested. (They still have that damn Vista Time Tracker widget on their site though!)
 
-![GUI](https://github.com/fuzzbomb7/breaktime/tree/master/Binaries/breaktime.png)
+![GUI](https://github.com/fuzzbomb7/breaktime/blob/master/Binaries/breaktime.png)
 
 ##Setup and Usage
 
@@ -21,7 +21,7 @@ Once you're ready to log your time, enter a note (optional) and click the *Submi
 
 ##Download
 
-[Windows Installer](https://github.com/fuzzbomb7/breaktime/tree/master/Binaries/breaktime.msi)
+[Windows Installer](https://github.com/fuzzbomb7/breaktime/blob/master/Binaries/breaktime.msi)
 
 ##Disclaimer
 
