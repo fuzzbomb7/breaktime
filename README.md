@@ -1,4 +1,4 @@
-#Break Time!
+# Break Time!
 A Windows desktop time tracking app for Freshbooks.
 
 I wanted a time tracker that was better than the javascript app offered by Freshbooks. I wanted to be able to add or subtract time, or round to the nearest 5 minute interval. I wanted to be able to enter time in minutes, not fractions of an hour. I wanted an app that would pause the timer if I had to step away from the desk. Most importantly, I wanted it to be free. So I made it myself.
@@ -7,7 +7,7 @@ Break Time! offers much of the same functionality as the premium offerings featu
 
 ![GUI](https://github.com/fuzzbomb7/breaktime/blob/master/Binaries/breaktime.png)
 
-##Setup and Usage
+## Setup and Usage
 
 To set up Break Time!, click the *Preferences* icon and enter the first part of your Freshbooks URL, as well as your API key. You can also adjust preferences, such as Windows startup, popup reminders, and pause when idle.
 
@@ -19,10 +19,10 @@ Use the *Add* buttons on the toolbar to easily add or subtract the specified int
 
 Once you're ready to log your time, enter a note (optional) and click the *Submit* button to log your time in Freshbooks!
 
-##Download
+## Download
 
 [Windows Installer](http://andrew.inmyroom.org/breaktime.msi)
 
-##Disclaimer
+## Disclaimer
 
 As of January 2015, Break Time! is currently functional with Freshbooks' API. However, future API changes may cause the program to break. This program is unsupported, and you use it at your own risk. No guarantee of support or functionality is provided.
