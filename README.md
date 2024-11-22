@@ -21,7 +21,7 @@ Once you're ready to log your time, enter a note (optional) and click the *Submi
 
 ## Download
 
-[Windows Installer](http://andrew.inmyroom.org/breaktime.msi)
+See Releases to the right
 
 ## Disclaimer
 
